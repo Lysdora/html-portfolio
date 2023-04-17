@@ -1,0 +1,93 @@
+body {
+  font-family: Helvetica, sans-serif;
+  color: #444;
+  margin: 0;
+}
+
+img-fluide {
+  width: 100%;
+}
+
+hr {
+  width: 50%;
+}
+
+img {
+  width: 450px;
+}
+
+a {
+  text-decoration: none;
+  color: #444;
+}
+
+main {
+  width: 100%;
+  overflow: hidden;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.logo h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+
+  justify-content: center;
+  background-color: rgba(137, 43, 226, 0.166);
+  padding: 20px;
+  align-items: center;
+}
+
+nav a {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1rem;
+  margin-right: 20px;
+  font-size: 1.5em;
+}
+
+.logo-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex;
+  align-items: center;
+  justify-content: center;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 2.5rem;
+}
+
+header {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 300px;
+}
+
+.cloud-color {
+  position: absolute;
+  left: 500px;
+  top: 362px;
+}
+
+.cloud-fixed {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 12%;
+}

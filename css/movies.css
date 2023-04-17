@@ -1,0 +1,30 @@
+/* Header style */
+body {
+  color: #444;
+  width: 100%;
+}
+
+header {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo-popcorn {
+  width: 20%;
+}
+
+main {
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}

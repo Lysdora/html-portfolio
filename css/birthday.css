@@ -1,0 +1,27 @@
+main {
+  margin: auto;
+  width: 600px;
+  background-color: rgba(255, 240, 253, 0.519);
+  padding: 30px;
+  border: 1px solid lightgray;
+  color: #444;
+}
+
+.img-fluide {
+  width: 100%;
+}
+
+h1 {
+  color: rgba(219, 27, 219, 0.616);
+}
+
+figcaption {
+  float: right;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(219, 27, 219, 0.616);
+  font-weight: bold;
+}
